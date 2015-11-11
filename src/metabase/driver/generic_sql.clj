@@ -163,7 +163,7 @@
 
    *  `stddev-fn` *(OPTIONAL)*
 
-      Keyword name of the SQL function that should be used to get the length of a string. Defaults to `:STDDEV`.
+      Keyword name of the SQL function that should be used to get the standard deviation of input values. Defaults to `:STDDEV`.
 
    *  `current-timestamp-fn` *(OPTIONAL)*
 
